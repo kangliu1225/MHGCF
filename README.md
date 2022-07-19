@@ -9,7 +9,7 @@ To address this problem, instead of the common MMRec paradigm which learns user 
 
 We provide tensorflow implementation for MEGCF. 
 
-### Before running the codes, please download the [**datasets**](https://www.aliyundrive.com/s/cmEeDMecU88) and copy them to the Data directory.
+### Before running the codes, please download the [**datasets**](https://www.aliyundrive.com/s/BSZuTyLWT4Y) and copy them to the Data directory.
 
 ## prerequisites
 
@@ -20,6 +20,6 @@ We provide tensorflow implementation for MEGCF.
 ## Results Reproduction
 We reran our code and the results were recorded in the **Log/** directory. Here are the optimal results for MHGCF on the three datasets:
 - **Amazon-beauty**: Epoch 249 [8.0s + 65.8s]: train==[16.92742=2.36366 + 4.61919],hit@5=[0.56831],,hit@10=[0.67026],hit@20=[0.76258],ndcg@5=[0.44566],ndcg@10=[0.47886],ndcg@20=[0.50213]
-- **Art**: 
+- **Art**: Epoch 149 [11.1s + 54.1s]: train==[21.62835=3.56304 + 4.31457],hit@5=[0.71739],,hit@10=[0.79984],hit@20=[0.87399],ndcg@5=[0.61716],ndcg@10=[0.64387],ndcg@20=[0.66268]
 - **Taobao**: Epoch 114 [4.1s + 56.8s]: train==[8.20427=1.40845 + 3.73030],hit@5=[0.41845],,hit@10=[0.52835],hit@20=[0.66265],ndcg@5=[0.31469],ndcg@10=[0.35017],ndcg@20=[0.38390]
 
