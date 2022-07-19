@@ -7,7 +7,7 @@ Multimedia-based recommendation (MMRec) is a challenging task, which goes beyond
 
 To address this problem, instead of the common MMRec paradigm which learns user preferences in a unified manner, we propose a hierarchical framework to separately learn collaborative signals and multimodal preferences cues, thus preventing multimodal noise from flowing into collaborative signals. Then, to alleviate the contamination of multimodal noise for multimodal user preference modeling, we propose to extract semantic entities from multimodal content that are more relevant to user interests, which can model semantic-level multimodal preferences and thus remove a certain amount of noise. Furthermore, we utilize the full multimodal features to model content-level multimodal preferences like the existing MMRec solutions, which ensures the sufficient utilization of multimodal information. Overall, we develop a novel model, Multimodal Hierarchical Graph Collaborative Filtering (MHGCF), which consists of three types of GCN modules for capturing collaborative signals, semantic-level preferences, and content-level preferences, respectively. We conduct extensive experiments to demonstrate the effectiveness of MHGCF and its components.
 
-We provide tensorflow implementation for MEGCF. 
+We provide tensorflow implementation for MHGCF. 
 
 ### Before running the codes, please download the [**datasets**](https://www.aliyundrive.com/s/BSZuTyLWT4Y) and copy them to the Data directory.
 
