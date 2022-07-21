@@ -1,7 +1,9 @@
 
 
 <p align="left">
-    <img src='https://img.shields.io/badge/paper-MHGCF-blue.svg' alt="Build Status">  
+    <a href='https://github.com/kangliu1225?tab=repositories'><img src='https://img.shields.io/badge/paper-MHGCF-blue.svg' alt="Build Status"></a>
+    <a href='https://github.com/kangliu1225?tab=repositories'><img src='https://img.shields.io/badge/affinity-HFUT-blue.svg' alt="Build Status"></a>
+    <a href='https://github.com/kangliu1225?tab=repositories'><img src='https://img.shields.io/badge/direction-Recommender Systems-blue.svg' alt="Build Status"></a>
 </p>
 
 # MHGCF
