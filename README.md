@@ -1,3 +1,9 @@
+
+
+<p align="left">
+    <img src='https://img.shields.io/twitter/url?style=social' alt="Build Status">  
+</p>
+
 # MHGCF
 ## Multimodal Hierarchical Graph Collaborative Filtering for Multimedia-based Recommendation
 
