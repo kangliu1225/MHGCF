@@ -1,7 +1,7 @@
 
 
 <p align="left">
-    <img src='https://img.shields.io/twitter/url?style=social' alt="Build Status">  
+    <img src='https://img.shields.io/badge/paper-MHGCF-blue.svg' alt="Build Status">  
 </p>
 
 # MHGCF
