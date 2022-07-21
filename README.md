@@ -1,7 +1,7 @@
 
 
 <p align="left">
-    <img src='https://img.shields.io/badge/paper-Multimodal Hierarchical Graph Collaborative Filtering for Multimedia-based Recommendation-blue.svg' alt="Build Status">
+    <img src='https://img.shields.io/badge/paper-Multimodal Hierarchical Graph Collaborative Filtering for Multimedia based Recommendation-blue.svg' alt="Build Status">
 </p>
 <p align="left">
     <img src='https://img.shields.io/badge/key words-Recommender Systems-green.svg' alt="Build Status">
