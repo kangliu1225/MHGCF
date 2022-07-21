@@ -5,7 +5,7 @@
     <a href='https://orcid.org/
 0000-0001-6789-1811'><img src='https://img.shields.io/badge/author-Kang Liu-blue.svg' alt="Build Status"></a>
     <a href='http://ci.hfut.edu.cn/'><img src='https://img.shields.io/badge/affinity-Hefei University of Technology-blue.svg' alt="Build Status"></a>
-    <img src='https://img.shields.io/badge/direction-Recommender Systems-green.svg' alt="Build Status">
+    <img src='https://img.shields.io/badge/direction-Recommender Systems&Graph Neural Network&Multimodal user preferences-green.svg' alt="Build Status">
 </p>
 
 ## Multimodal Hierarchical Graph Collaborative Filtering for Multimedia-based Recommendation
