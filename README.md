@@ -4,7 +4,12 @@
     <a href='https://github.com/kangliu1225?tab=repositories'><img src='https://img.shields.io/badge/model-MHGCF-blue.svg' alt="Build Status"></a>
     <a href='https://orcid.org/
 0000-0001-6789-1811'><img src='https://img.shields.io/badge/author-刘康-blue.svg' alt="Build Status"></a>
-    <img src='https://img.shields.io/badge/key words-Recommender Systems & Graph Neural Network & Multimodal user preferences-green.svg' alt="Build Status">
+</p>
+<p align="left">
+    <img src='https://img.shields.io/badge/key words-Recommender Systems-green.svg' alt="Build Status">
+    <img src='https://img.shields.io/badge/key words-Graph Neural Networks-green.svg' alt="Build Status">
+    <img src='https://img.shields.io/badge/key words-Collaborative Filtering-green.svg' alt="Build Status">
+    <img src='https://img.shields.io/badge/key words-Multimodal user preferences-green.svg' alt="Build Status">
 </p>
 
 ## Multimodal Hierarchical Graph Collaborative Filtering for Multimedia-based Recommendation
