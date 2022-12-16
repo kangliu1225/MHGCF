@@ -41,7 +41,7 @@ author={Liu, Kang and Xue, Feng and Li, Shuaiyang and Sang, Sheng and Hong, Rich
 journal={IEEE Transactions on Computational Social Systems},   
 title={Multimodal Hierarchical Graph Collaborative Filtering for Multimedia-Based Recommendation},   
 year={2022},  
-pages={1-12},  
+pages={1--12},  
 doi={10.1109/TCSS.2022.3226862}  
 }
 
